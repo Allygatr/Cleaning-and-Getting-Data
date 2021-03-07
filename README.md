@@ -9,7 +9,15 @@ output: html_document
 * README.md
 * CodeBook.md
 * run_analysis.R
-* List of the text files downloaded for the R-script
+* List of the text files downloaded for the R-script:
+* X_test.xt
+* X_train.txt
+* activity_labels.txt
+* features.txt
+* subject_test.txt
+* subject_train.txt
+* y_test.txt
+* y_train.txt
 
 ## Data source
 
