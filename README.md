@@ -9,6 +9,7 @@ output: html_document
 * README.md
 * CodeBook.md
 * run_analysis.R
+* Because I can not upload the text files I used in my code, I added a list of the ones I used. If you run the code please ensure they are in the working directory.
 * List of the text files downloaded for the R-script:
 * X_test.xt
 * X_train.txt
