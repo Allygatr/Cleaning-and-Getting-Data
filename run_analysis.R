@@ -117,7 +117,7 @@ tidydata = average_of_all_data
 
 ## To produce table of tidy data
 
-write.table(tidydata, "Tidy Dataset.txt")
+write.table(tidydata, "Tidy Dataset.txt", row.name=FALSE)
 
 
 
